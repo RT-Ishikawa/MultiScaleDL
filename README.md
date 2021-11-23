@@ -7,7 +7,7 @@ It is important to derive three-dimensional velocity vectors to understand the n
 The line-of-sight component of the velocity can be obtained by observing the Doppler shifts.
 However, it is difficult to obtain the velocity component perpendicular to the line-of-sight,
 which corresponds to the horizontal velocity in disk center observations.
-To develop
+We developed a concolutional neural network model with a multi-scale deep learning architecture.d
 
 # Dependencies
 The network (network_definition.py) and the sample code (sample_draft3.py) depend on following packages
